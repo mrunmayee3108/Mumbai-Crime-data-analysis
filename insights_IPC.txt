@@ -1,0 +1,38 @@
+IPC Crimes Insights:
+
+-- The highest number of crimes were thefts.
+
+-- The 3rd and 4th largest number of crimes were related to molestation and rape. This is a serious security concern. A significant amount of them were solved, but not all as per the official data which I downloaded from the mumbaipolice.gov.in website (on November 05, 2025).
+
+-- The least number of crimes were associated with dacoity and attempt to robbery.
+
+-- 11 murder cases were registered. This is a very serious concern. Data shows that all of the cases were solved successfully as a result of the excellence of Mumbai Police.
+ 
+-- Some chain snatching cases were also registered, and more than half of them were successfully solved.
+
+-- There are various sections such as H.B.T Night, H.B.T Day (House Breaking theft), Robbery, Snatching, Chain Snatching, Theft, M.V. Theft (Motor Vehicle theft) which shows that theft/robbery is the major crime recorded.
+
+-- Comparing to the previous month, August 2025:
+1. The Riots, Murder, Attempt to murder cases increased significantly, Riot cases increased by 17,attempt to murder by 15, Murder by 5. 
+2. Molestation, Robbery, Extortion, House Breaking theft at night cases also increased at a comparatively slower rate.
+3. Rape, Dacoity cases neither increased nor decreased but remained approximately the same in both the months.
+4. Motor Vehicle thefts decreased significantly (by 19).
+5. House Breaking thefts at day and attempt to robbery cases decreased very slightly.
+
+-- All the Murder and dacoity cases registered in September 2025 were solved successfully.
+
+-- Attempt to murder, Hurt, Robbery, Molestation, Rape cases were also solved with a percentage of more than 80.
+
+-- Theft cases were the least which were solved in September 2025.
+
+-- As compared to the previous year, the Attempt to robbery, Riots, Murder and rape cases clearance ratio decreased. The ratio for theft and attempt to murder cases also decreased.
+
+-- The clearance ratio as compared to previous year for Snatching and house breaking during the day improved. House breaking during the night, Motor vehicle thefts cases clearance ratio also improved. The ratio for molestation, hurt and extortion cases improved slightly.
+
+-- Overall detection rate (cases solved)(Sep 2025): 51.04% 
+-- Overall detection rate (Aug 2025): 49.62%
+Therefore the detection rate increased by 1.42%.
+
+-- Crimes with highest monthly increase from August to September 2025 were Molestation, Murder, Hurt, Attempt to murder and riots.
+
+
