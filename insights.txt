@@ -1,0 +1,124 @@
+IPC Crimes Insights:
+
+-- The highest number of crimes were thefts.
+
+-- The 3rd and 4th largest number of crimes were related to molestation and rape. This is a serious security concern. A significant amount of them were solved, but not all as per the official data which I downloaded from the mumbaipolice.gov.in website (on November 05, 2025).
+
+-- The least number of crimes were associated with dacoity and attempt to robbery.
+
+-- 11 murder cases were registered. This is a very serious concern. Data shows that all of the cases were solved successfully as a result of the excellence of Mumbai Police.
+ 
+-- Some chain snatching cases were also registered, and more than half of them were successfully solved.
+
+-- There are various sections such as H.B.T Night, H.B.T Day (House Breaking theft), Robbery, Snatching, Chain Snatching, Theft, M.V. Theft (Motor Vehicle theft) which shows that theft/robbery is the major crime recorded.
+
+-- Comparing to the previous month, August 2025:
+1. The Riots, Murder, Attempt to murder cases increased significantly, Riot cases increased by 17,attempt to murder by 15, Murder by 5. 
+2. Molestation, Robbery, Extortion, House Breaking theft at night cases also increased at a comparatively slower rate.
+3. Rape, Dacoity cases neither increased nor decreased but remained approximately the same in both the months.
+4. Motor Vehicle thefts decreased significantly (by 19).
+5. House Breaking thefts at day and attempt to robbery cases decreased very slightly.
+
+-- All the Murder and dacoity cases registered in September 2025 were solved successfully.
+
+-- Attempt to murder, Hurt, Robbery, Molestation, Rape cases were also solved with a percentage of more than 80.
+
+-- Theft cases were the least which were solved in September 2025.
+
+-- As compared to the previous year, the Attempt to robbery, Riots, Murder and rape cases clearance ratio decreased. The ratio for theft and attempt to murder cases also decreased.
+
+-- The clearance ratio as compared to previous year for Snatching and house breaking during the day improved. House breaking during the night, Motor vehicle thefts cases clearance ratio also improved. The ratio for molestation, hurt and extortion cases improved slightly.
+
+-- Overall detection rate (cases solved)(Sep 2025): 51.04% 
+-- Overall detection rate (Aug 2025): 49.62%
+Therefore the detection rate increased by 1.42%.
+
+-- Crimes with highest monthly increase from August to September 2025 were Molestation, Murder, Hurt, Attempt to murder and riots.
+
+Crimes related to women - Insights:
+-- In September 2025, maximum number of cases were related to outraging the modesty of women with 181 cases registered. Kidnapping was the second largest crime with 128 cases registered. 
+
+-- large number of rape cases were also registered. (Third largest crime against women in Sep 25)
+
+-- None of the acid attack, cases were registered in September 2025 as well as in August 2025. This is a positive thing, still there may be cases which occurred but didn't reach the police.
+
+-- As compared to the previous month, August 2025, the number of unsolved cases of Mental/Physical harassment increased by 11. 
+Molestation and outraging the modesty of women cases didn't see any significant change, the number of unsolved cases increased by 1.
+
+-- The number of unsolved cases of Dowry, Kidnapping, outraging modesty and rape decreased, suggesting improvement. Rape cases showed maximum improvement from unsolved to solved status.
+
+-- The overall detection rate (cases solved) of cases increased from 74.61% in August to 77.69% in September.
+
+-- The detection(cases solved) rate improved as compared to the previous year in the cases of Mental/physical harassment, Kidnapping and outraging modesty cases, where as it reduced/worsened in the cases of Dowry, Suicides and murder cases. 
+
+
+NDPS Cases - Insights
+-- The highest number of cases registered along with the highest number of people arrested were in the drug consumption cases.
+
+-- Ganja and MD are the most common substances seized.
+
+-- Cocaine seizure cases were comparatively less.
+
+-- The highest cost (most expensive) substance seized was MD worth INR 5132325695.00, followed by Cocaine worth INR 769095500.00.
+
+-- The highest amount of substance seized was Ganja (1049.33 kg), followed by MD (257.33 kg). These high amounts indicate serious concern.
+
+-- Maximum arrests are done in Cocaine cases, with arrest per case ratio of 1.67, followed by Charas with a ratio of 1.63, cough syrup with a ratio of 1.46.
+
+-- The least arrest per case ratio is of Ganja (1.07) and consumption cases (0.83).
+
+-- The highest Quantity seized per case is in Ganja cases of approx. quantity 1.92kg, followed by Charas 1.22kg. 
+
+-- Heroin and some other drugs have a lower quantity seized.
+
+
+
+
+Cases related to brothels - Insights:
+
+-- The brothel related cases increased from 20 in the last year to 31 in this year, 2025.
+
+-- 9 brothel related cases were registered in September, 2025.
+
+-- 132 people were rescued from brothels this year, whereas only 51 were rescued in the previous year.
+
+-- 109 people were arrested this year, whereas only 22 were arrested in the previous year. 
+
+-- The above points indicate that either the number of brothel cases that were detected increased this year and also appropriate actions were taken more efficiently this year, as compared to the previous year, 
+OR
+Most of the cases went undetected in the previous year
+OR
+The number of brothel cases were truly lesser in the previous year and they increased this year.
+
+-- No. of arrests per case in the previous year were 1.1, which means 1 person per case on average. It was 3.516 this year, which means 3-4 people per case on average.
+
+-- No. of people rescued per case were 4.25 this year which means 4 people on average, whereas it was 2.55 last year, 2-3 people on an average.
+
+
+Cases on Economic Offenses - Insights:
+
+-- The percentage of detection(cases solved) in the previous year as well as this year is 100%. 
+
+-- The number of cases in September 2025 increased by 8, as compared to August 2025.
+
+-- The number of cases Solved this year were 91 whereas they were 62 in the last year.
+
+
+Cyber Crime cases - Insights: 
+
+-- The highest number of cyber crimes were associated with Share market investment(665 cases registered), followed by Credit card/online frauds (398 cases registered)
+
+-- The least number of cyber crime cases were registered in the case of Admission fraud (3 cases).
+
+-- The largest number of people were arrested in the Share market investment frauds (210 people), followed by Obscene email/SMS/MMS/Post cases (85 people). Morphing/fake social media profile (71 people).
+
+-- Maximum number of persons were arrested in Hacking cases (approx. 18 people per case), followed by Gift card frauds(13 people per case), The least number of people arrested per case were in the case of Sextortion cases (1 person per case), Communal post (2 people per case).
+
+-- The detection percentage (No. of cases solved) is highest in case of Obscene Email/SMS/MMS/Post cases (70.55%), followed by Communal posts cases(66.66%), Sextortion(65.38%), whereas the cases with lowest detection percentage are Hacking(7.54%), Phishing/MIM attack/Spoofing mail (7.69%), gift card frauds (10.52%).
+
+-- The highest arrest rate was in Sextortion cases (76.92%), followed by Communal post (66.66%), Pornography(57.14%). The lowest arrest rates were of Hacking(5.66%), Gift card frauds(7.89%) and Fake website frauds (8.86%).
+
+
+
+
+
