@@ -229,14 +229,7 @@ MIT License.
 ## 🙏 Acknowledgments
 
 * Mumbai Police (Data Source)
-* Python & Data Science Community
 
 ---
 
 
-If you want, I can also create:
-✔ A perfect **app.py Streamlit file**
-✔ **queries.sql** (clean + organized)
-✔ **schema.sql** (simple + readable)
-
-Just tell me!
