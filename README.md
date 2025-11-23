@@ -1,4 +1,24 @@
-# 🕵️‍♀️ Mumbai Crime Data Analysis (September 2025)
+# 🚨🚓 Mumbai Crime Data Analysis (September 2025)
+
+
+<p align="left">
+
+  <img src="https://cdn.simpleicons.org/python" height="48" />
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.simpleicons.org/pandas" height="48" />
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="48" />
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.simpleicons.org/sqlalchemy" height="48" />
+  &nbsp;&nbsp;
+
+  <img src="https://cdn.simpleicons.org/plotly" height="48" />
+
+</p>
+
 
 **Python · Pandas · MySQL · SQLAlchemy · Data Visualization**
 
