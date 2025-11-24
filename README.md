@@ -103,7 +103,7 @@ The project cleans and prepares real-world data, generates detailed insights, cr
 ## 🛠️ Tech Stack
 
 <details>
-<summary><strong>🔧 Backend / Analytics</strong></summary>
+<summary><strong>🔧Analytics</strong></summary>
 
 * Python 3.8+
 * Pandas
