@@ -22,7 +22,6 @@
 
 **Python · Pandas · MySQL · SQLAlchemy · Data Visualization**
 
----
 
 ## 📘 Description
 
@@ -39,9 +38,6 @@ The dataset spans 6 major crime categories:
 
 The project cleans and prepares real-world data, generates detailed insights, creates derived metrics, imports the final dataset into a structured SQL database, and visualizes crime patterns to understand trends, severity, and detection performance.
 
-Developed by **Mrunmayee Potdar**, this project demonstrates a complete data workflow suitable for analytics portfolios.
-
----
 
 ## ✨ Features
 
@@ -102,22 +98,7 @@ Developed by **Mrunmayee Potdar**, this project demonstrates a complete data wor
 
 </details>
 
----
 
-## 📁 Project Structure
-
-```
-mumbai-crime-data-analysis/
-├── crimedata_simplified.xlsx     # Final cleaned dataset
-├── mumbai_crime_analysis.ipynb   # Full Pandas analysis notebook
-├── load_to_mysql.py              # Uploads Excel sheets to MySQL
-├── schema.sql                    # Database & tables schema
-├── queries.sql                   # Organized SQL queries
-├── requirements.txt              # Python dependencies
-└── README.md                     # Documentation
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -149,7 +130,6 @@ mumbai-crime-data-analysis/
 
 </details>
 
----
 
 ## 📦 Key Dependencies
 
@@ -161,8 +141,6 @@ sqlalchemy
 pymysql
 openpyxl
 ```
-
----
 
 ## 🚀 Quick Start
 
@@ -202,7 +180,6 @@ Open the notebook:
 
 </details>
 
----
 
 ## 🧠 Usage
 
@@ -212,7 +189,6 @@ Open the notebook:
 * Read criminal pattern insights
 * Extend into dashboards or ML models
 
----
 
 ## 🛠️ Development Setup
 
@@ -225,31 +201,28 @@ Open the notebook:
 
 </details>
 
----
-
 ## 👥 Contributing
 
 Pull requests are welcome.
 Fork → Branch → Commit → PR.
 
----
 
 ## 🐛 Known Issues
 
 None currently.
 
----
 
 ## 📄 License
 
 MIT License.
 
----
 
 ## 🙏 Acknowledgments
 
 * Mumbai Police (Data Source)
 
----
+
+
+~ Mrunmayee Sachin Potdar
 
 
